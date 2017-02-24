@@ -1,0 +1,40 @@
+<h1 class="fontSize">{{title}}</h1>
+<div class="list-group">
+    <a href="#/subject/{{subject.id}}" class="list-group-item" ng-repeat="subject in subjects">
+        <span class="badge">{{subject.rating.average}}</span>
+        <div class="media">
+            <div class="media-left">
+                <img ng-src="{{subject.images.small}}" alt="{{subject.alt}}" height="128">
+            </div>
+            <div class="media-body">
+                <h3 class="media-heading">{{subject.title}}</h3>
+                <p>类型：<span ng-repeat="genre in subject.genres">{{genre}}{{$last?'':'、'}}</span></p>
+                <p>导演：<span ng-repeat="director in subject.directors">{{director.name}}{{$last?'':'、'}}</span></p>
+                <p>主演：<span ng-repeat="cast in subject.casts">{{cast.name}}{{$last?'':'、'}}</span></p>
+            </div>
+        </div>
+    </a>
+</div>
+<div ng-if="!loading">
+    <p class="text-right">第&nbsp;{{currentPage}}&nbsp;/&nbsp;{{totalPages}}&nbsp;页&nbsp;&nbsp;&nbsp;总共：{{totalCount}}&nbsp;&nbsp;条记录</p>
+    <div class="footer">
+        <p>&copy; 版权所有--&nbsp;谢英 &nbsp;2016</p>
+    </div>
+    <ul class="arr">
+        <li class="prev" ng-class="{disabled:currentPage<=1}">
+            <a ng-click="goPage(currentPage-1)"><img src="images/dirl.png" title="上一页"></a>
+        </li>
+        <li class="next" ng-class="{disabled:currentPage>= totalPages}">
+            <a ng-click="goPage(currentPage+1)"><img src="images/dirr.png" title="下一页"></a>
+        </li>
+    </ul>
+</div>
+<div id="mask" ng-show="loading">
+    <div class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>

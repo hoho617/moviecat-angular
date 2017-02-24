@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>测试手写的JSONP请求</title>
+</head>
+
+<body>
+    <div id="box"></div>
+    <script src="http.js"></script>
+    <script>
+        (function() {
+            jsonp('http://api.douban.com/v2/movie/in_theaters', {
+                start: 2,
+                count: 2
+            }, function(data) {
+                document.getElementById('box').innerHTML = JSON.stringify(data);
+            });
+        })();
+    </script>
+</body>
+
+</html>

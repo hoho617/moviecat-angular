@@ -1,0 +1,1404 @@
+{
+  "count": 20,
+  "start": 0,
+  "total": 26,
+  "subjects": [
+	{
+	  "rating": {
+		"max": 10,
+		"average": 6.9,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"喜剧"
+	  ],
+	  "title": "我不是潘金莲",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1050059/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1691.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1691.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1691.jpg"
+		  },
+		  "name": "范冰冰",
+		  "id": "1050059"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1274274/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/39703.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/39703.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/39703.jpg"
+		  },
+		  "name": "郭涛",
+		  "id": "1274274"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1324043/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/58870.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/58870.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/58870.jpg"
+		  },
+		  "name": "大鹏",
+		  "id": "1324043"
+		}
+	  ],
+	  "collect_count": 56126,
+	  "original_title": "我不是潘金莲",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1274255/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/45667.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/45667.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/45667.jpg"
+		  },
+		  "name": "冯小刚",
+		  "id": "1274255"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2378133884.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2378133884.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2378133884.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26630781/",
+	  "id": "26630781"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.2,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"奇幻",
+		"冒险"
+	  ],
+	  "title": "神奇动物在哪里",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1010503/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/9399.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/9399.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/9399.jpg"
+		  },
+		  "name": "埃迪·雷德梅恩",
+		  "id": "1010503"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1316589/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/37005.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/37005.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/37005.jpg"
+		  },
+		  "name": "凯瑟琳·沃特斯顿",
+		  "id": "1316589"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1027317/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/31252.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/31252.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/31252.jpg"
+		  },
+		  "name": "丹·福勒",
+		  "id": "1027317"
+		}
+	  ],
+	  "collect_count": 10346,
+	  "original_title": "Fantastic Beasts and Where to Find Them",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275147/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/9900.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/9900.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/9900.jpg"
+		  },
+		  "name": "大卫·叶茨",
+		  "id": "1275147"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2392444121.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2392444121.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2392444121.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/25726614/",
+	  "id": "25726614"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.1,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"喜剧",
+		"动画",
+		"奇幻"
+	  ],
+	  "title": "海洋奇缘",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1364824/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1479447814.43.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1479447814.43.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1479447814.43.jpg"
+		  },
+		  "name": "奥莉·卡瓦洛",
+		  "id": "1364824"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1044707/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/196.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/196.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/196.jpg"
+		  },
+		  "name": "道恩·强森",
+		  "id": "1044707"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1031855/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/13834.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/13834.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/13834.jpg"
+		  },
+		  "name": "艾伦·图代克",
+		  "id": "1031855"
+		}
+	  ],
+	  "collect_count": 685,
+	  "original_title": "Moana",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1045252/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/48764.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/48764.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/48764.jpg"
+		  },
+		  "name": "罗恩·克莱蒙兹",
+		  "id": "1045252"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1041456/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1359182726.97.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1359182726.97.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1359182726.97.jpg"
+		  },
+		  "name": "约翰·马斯克",
+		  "id": "1041456"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2397960879.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2397960879.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2397960879.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/25793398/",
+	  "id": "25793398"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 4.2,
+		"stars": "20",
+		"min": 0
+	  },
+	  "genres": [
+		"动作",
+		"悬疑"
+	  ],
+	  "title": "冲天火",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1027502/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/2429.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/2429.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/2429.jpg"
+		  },
+		  "name": "吴彦祖",
+		  "id": "1027502"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1313867/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1439435972.76.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1439435972.76.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1439435972.76.jpg"
+		  },
+		  "name": "张若昀",
+		  "id": "1313867"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1016668/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/146.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/146.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/146.jpg"
+		  },
+		  "name": "张静初",
+		  "id": "1016668"
+		}
+	  ],
+	  "collect_count": 477,
+	  "original_title": "冲天火",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275076/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/12098.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/12098.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/12098.jpg"
+		  },
+		  "name": "林岭东",
+		  "id": "1275076"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2394867674.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2394867674.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2394867674.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26365631/",
+	  "id": "26365631"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 6.4,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"动画",
+		"悬疑"
+	  ],
+	  "title": "名侦探柯南：纯黑的恶梦",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1048421/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/11214.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/11214.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/11214.jpg"
+		  },
+		  "name": "高山南",
+		  "id": "1048421"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1003697/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/23348.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/23348.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/23348.jpg"
+		  },
+		  "name": "山崎和佳奈",
+		  "id": "1003697"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1038087/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/49478.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/49478.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/49478.jpg"
+		  },
+		  "name": "小山力也",
+		  "id": "1038087"
+		}
+	  ],
+	  "collect_count": 12058,
+	  "original_title": "名探偵コナン 純黒の悪夢",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1335491/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1429590071.87.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1429590071.87.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1429590071.87.jpg"
+		  },
+		  "name": "静野孔文",
+		  "id": "1335491"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2398143099.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2398143099.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2398143099.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26596486/",
+	  "id": "26596486"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 7.9,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"动作",
+		"科幻",
+		"奇幻"
+	  ],
+	  "title": "奇异博士",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1009405/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/41072.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/41072.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/41072.jpg"
+		  },
+		  "name": "本尼迪克特·康伯巴奇",
+		  "id": "1009405"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1025152/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/3546.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/3546.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/3546.jpg"
+		  },
+		  "name": "蒂尔达·斯文顿",
+		  "id": "1025152"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1040529/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/57893.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/57893.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/57893.jpg"
+		  },
+		  "name": "麦斯·米科尔森",
+		  "id": "1040529"
+		}
+	  ],
+	  "collect_count": 152676,
+	  "original_title": "Doctor Strange",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1320372/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/49077.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/49077.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/49077.jpg"
+		  },
+		  "name": "斯科特·德瑞克森",
+		  "id": "1320372"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2388501883.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2388501883.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2388501883.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/3025375/",
+	  "id": "3025375"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 5.2,
+		"stars": "30",
+		"min": 0
+	  },
+	  "genres": [
+		"爱情",
+		"悬疑"
+	  ],
+	  "title": "夏威夷之恋",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1313303/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/37554.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/37554.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/37554.jpg"
+		  },
+		  "name": "陈妍希",
+		  "id": "1313303"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1000029/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/7465.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/7465.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/7465.jpg"
+		  },
+		  "name": "亨利·伊安·库斯克",
+		  "id": "1000029"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1036304/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/386.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/386.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/386.jpg"
+		  },
+		  "name": "杰克逊·拉斯波恩",
+		  "id": "1036304"
+		}
+	  ],
+	  "collect_count": 226,
+	  "original_title": "The Pali Road",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1311313/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "林浩然",
+		  "id": "1311313"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2397959290.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2397959290.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2397959290.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26370431/",
+	  "id": "26370431"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 0,
+		"stars": "00",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"爱情"
+	  ],
+	  "title": "我是处女座",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275280/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/11546.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/11546.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/11546.jpg"
+		  },
+		  "name": "安以轩",
+		  "id": "1275280"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1337009/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1393487343.73.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1393487343.73.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1393487343.73.jpg"
+		  },
+		  "name": "安宰贤",
+		  "id": "1337009"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1033102/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/40164.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/40164.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/40164.jpg"
+		  },
+		  "name": "方中信",
+		  "id": "1033102"
+		}
+	  ],
+	  "collect_count": 79,
+	  "original_title": "我是处女座",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1323753/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1366984393.58.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1366984393.58.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1366984393.58.jpg"
+		  },
+		  "name": "陈兵",
+		  "id": "1323753"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2394862562.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2394862562.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2394862562.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26673217/",
+	  "id": "26673217"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 0,
+		"stars": "00",
+		"min": 0
+	  },
+	  "genres": [
+		"喜剧",
+		"爱情"
+	  ],
+	  "title": "最萌身高差",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1273313/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/9696.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/9696.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/9696.jpg"
+		  },
+		  "name": "高以翔",
+		  "id": "1273313"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1318538/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/43230.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/43230.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/43230.jpg"
+		  },
+		  "name": "王水林",
+		  "id": "1318538"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1351495/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1461475829.75.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1461475829.75.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1461475829.75.jpg"
+		  },
+		  "name": "范湉湉",
+		  "id": "1351495"
+		}
+	  ],
+	  "collect_count": 178,
+	  "original_title": "最萌身高差",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1318533/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/43227.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/43227.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/43227.jpg"
+		  },
+		  "name": "马侃",
+		  "id": "1318533"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2398176331.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2398176331.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2398176331.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26696875/",
+	  "id": "26696875"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.6,
+		"stars": "45",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"战争"
+	  ],
+	  "title": "比利·林恩的中场战事",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1348117/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1424957578.32.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1424957578.32.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1424957578.32.jpg"
+		  },
+		  "name": "乔·阿尔文",
+		  "id": "1348117"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1047958/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/47467.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/47467.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/47467.jpg"
+		  },
+		  "name": "加内特·赫德兰",
+		  "id": "1047958"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1012533/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/11265.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/11265.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/11265.jpg"
+		  },
+		  "name": "克里斯汀·斯图尔特",
+		  "id": "1012533"
+		}
+	  ],
+	  "collect_count": 98505,
+	  "original_title": "Billy Lynn's Long Halftime Walk",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1054421/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/595.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/595.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/595.jpg"
+		  },
+		  "name": "李安",
+		  "id": "1054421"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2391542403.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2391542403.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2391542403.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/25983044/",
+	  "id": "25983044"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 7.2,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"冒险",
+		"灾难"
+	  ],
+	  "title": "深海浩劫",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1035674/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1407766093.88.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1407766093.88.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1407766093.88.jpg"
+		  },
+		  "name": "马克·沃尔伯格",
+		  "id": "1035674"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1314963/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/53688.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/53688.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/53688.jpg"
+		  },
+		  "name": "迪伦·欧布莱恩",
+		  "id": "1314963"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1041013/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1367250434.9.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1367250434.9.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1367250434.9.jpg"
+		  },
+		  "name": "约翰·马尔科维奇",
+		  "id": "1041013"
+		}
+	  ],
+	  "collect_count": 10578,
+	  "original_title": "Deepwater Horizon",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1031938/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/30850.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/30850.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/30850.jpg"
+		  },
+		  "name": "彼得·博格",
+		  "id": "1031938"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2396092735.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2396092735.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2396092735.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/22266320/",
+	  "id": "22266320"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 0,
+		"stars": "00",
+		"min": 0
+	  },
+	  "genres": [
+		"惊悚"
+	  ],
+	  "title": "怨灵地下室",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1364843/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "倪新宇",
+		  "id": "1364843"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1318068/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/46159.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/46159.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/46159.jpg"
+		  },
+		  "name": "陈美行",
+		  "id": "1318068"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275600/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/11524.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/11524.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/11524.jpg"
+		  },
+		  "name": "那威",
+		  "id": "1275600"
+		}
+	  ],
+	  "collect_count": 89,
+	  "original_title": "怨灵地下室",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1364839/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1479456751.92.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1479456751.92.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1479456751.92.jpg"
+		  },
+		  "name": "周广兴",
+		  "id": "1364839"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2399536236.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2399536236.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2399536236.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26876505/",
+	  "id": "26876505"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.4,
+		"stars": "45",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"喜剧"
+	  ],
+	  "title": "驴得水",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1362973/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1478066140.77.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1478066140.77.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1478066140.77.jpg"
+		  },
+		  "name": "任素汐",
+		  "id": "1362973"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1355797/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1458442004.38.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1458442004.38.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1458442004.38.jpg"
+		  },
+		  "name": "大力",
+		  "id": "1355797"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1337891/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1392696207.67.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1392696207.67.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1392696207.67.jpg"
+		  },
+		  "name": "刘帅良",
+		  "id": "1337891"
+		}
+	  ],
+	  "collect_count": 92077,
+	  "original_title": "驴得水",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1362256/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1477663977.75.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1477663977.75.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1477663977.75.jpg"
+		  },
+		  "name": "周申",
+		  "id": "1362256"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1362257/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1477663883.18.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1477663883.18.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1477663883.18.jpg"
+		  },
+		  "name": "刘露",
+		  "id": "1362257"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2393044761.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2393044761.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2393044761.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/25921812/",
+	  "id": "25921812"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"动作",
+		"动画"
+	  ],
+	  "title": "航海王之黄金城",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1016801/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/4978.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/4978.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/4978.jpg"
+		  },
+		  "name": "田中真弓",
+		  "id": "1016801"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1037337/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/10219.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/10219.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/10219.jpg"
+		  },
+		  "name": "中井和哉",
+		  "id": "1037337"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1033344/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/15181.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/15181.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/15181.jpg"
+		  },
+		  "name": "冈村明美",
+		  "id": "1033344"
+		}
+	  ],
+	  "collect_count": 18440,
+	  "original_title": "ONE PIECE FILM GOLD",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1364439/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "宮元宏彰",
+		  "id": "1364439"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2392493260.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2392493260.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2392493260.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26598021/",
+	  "id": "26598021"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 8.1,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"动作",
+		"犯罪"
+	  ],
+	  "title": "湄公河行动",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1274319/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1431679077.58.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1431679077.58.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1431679077.58.jpg"
+		  },
+		  "name": "张涵予",
+		  "id": "1274319"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1013782/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1368156632.65.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1368156632.65.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1368156632.65.jpg"
+		  },
+		  "name": "彭于晏",
+		  "id": "1013782"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1274640/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/5979.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/5979.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/5979.jpg"
+		  },
+		  "name": "孙淳",
+		  "id": "1274640"
+		}
+	  ],
+	  "collect_count": 224424,
+	  "original_title": "湄公河行动",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275075/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1372934445.18.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1372934445.18.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1372934445.18.jpg"
+		  },
+		  "name": "林超贤",
+		  "id": "1275075"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2380677316.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2380677316.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2380677316.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/25815034/",
+	  "id": "25815034"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 6.4,
+		"stars": "35",
+		"min": 0
+	  },
+	  "genres": [
+		"喜剧"
+	  ],
+	  "title": "阿拉丁与神灯",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1356429/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1459858599.17.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1459858599.17.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1459858599.17.jpg"
+		  },
+		  "name": "凯文·亚当斯",
+		  "id": "1356429"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1005269/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/19115.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/19115.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/19115.jpg"
+		  },
+		  "name": "让-保罗·卢弗",
+		  "id": "1005269"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1339884/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1398669983.38.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1398669983.38.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1398669983.38.jpg"
+		  },
+		  "name": "凡妮莎·吉德",
+		  "id": "1339884"
+		}
+	  ],
+	  "collect_count": 2104,
+	  "original_title": "Les nouvelles aventures d'Aladin",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1345487/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1459925913.71.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1459925913.71.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1459925913.71.jpg"
+		  },
+		  "name": "亚瑟·邦扎康",
+		  "id": "1345487"
+		}
+	  ],
+	  "year": "2015",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2392693383.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2392693383.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2392693383.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26602796/",
+	  "id": "26602796"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 4.7,
+		"stars": "25",
+		"min": 0
+	  },
+	  "genres": [
+		"剧情",
+		"喜剧"
+	  ],
+	  "title": "外公芳龄38",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1009179/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1368762337.01.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1368762337.01.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1368762337.01.jpg"
+		  },
+		  "name": "佟大为",
+		  "id": "1009179"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1313303/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/37554.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/37554.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/37554.jpg"
+		  },
+		  "name": "陈妍希",
+		  "id": "1313303"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1355329/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1478848828.8.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1478848828.8.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1478848828.8.jpg"
+		  },
+		  "name": "吕云骢",
+		  "id": "1355329"
+		}
+	  ],
+	  "collect_count": 2270,
+	  "original_title": "外公芳龄38",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1276884/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/46669.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/46669.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/46669.jpg"
+		  },
+		  "name": "安兵基",
+		  "id": "1276884"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2394844095.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2394844095.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2394844095.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26415200/",
+	  "id": "26415200"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 5.4,
+		"stars": "30",
+		"min": 0
+	  },
+	  "genres": [
+		"动作",
+		"历史",
+		"战争"
+	  ],
+	  "title": "勇士",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1317113/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/46584.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/46584.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/46584.jpg"
+		  },
+		  "name": "李东学",
+		  "id": "1317113"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1314386/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/1422338246.39.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/1422338246.39.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/1422338246.39.jpg"
+		  },
+		  "name": "于小伟",
+		  "id": "1314386"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1275718/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1357005509.65.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1357005509.65.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1357005509.65.jpg"
+		  },
+		  "name": "聂远",
+		  "id": "1275718"
+		}
+	  ],
+	  "collect_count": 1300,
+	  "original_title": "勇士",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1316350/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/36013.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/36013.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/36013.jpg"
+		  },
+		  "name": "宁海强",
+		  "id": "1316350"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2390260819.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2390260819.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2390260819.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26822683/",
+	  "id": "26822683"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 7.6,
+		"stars": "40",
+		"min": 0
+	  },
+	  "genres": [
+		"动画",
+		"奇幻",
+		"冒险"
+	  ],
+	  "title": "魔发精灵",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1040987/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/419.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/419.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/419.jpg"
+		  },
+		  "name": "贾斯汀·汀布莱克",
+		  "id": "1040987"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1013789/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/31847.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/31847.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/31847.jpg"
+		  },
+		  "name": "安娜·肯德里克",
+		  "id": "1013789"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1013758/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/3139.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/3139.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/3139.jpg"
+		  },
+		  "name": "佐伊·丹斯切尔",
+		  "id": "1013758"
+		}
+	  ],
+	  "collect_count": 5682,
+	  "original_title": "Trolls",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1292230/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "迈克·米歇尔",
+		  "id": "1292230"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1363786/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/f/movie/ca527386eb8c4e325611e22dfcb04cc116d6b423/pics/movie/celebrity-default-small.png",
+			"large": "http://img7.doubanio.com/f/movie/63acc16ca6309ef191f0378faf793d1096a3e606/pics/movie/celebrity-default-large.png",
+			"medium": "http://img3.doubanio.com/f/movie/8dd0c794499fe925ae2ae89ee30cd225750457b4/pics/movie/celebrity-default-medium.png"
+		  },
+		  "name": "沃尔特·道恩",
+		  "id": "1363786"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img7.doubanio.com/view/movie_poster_cover/ipst/public/p2392222202.jpg",
+		"large": "http://img7.doubanio.com/view/movie_poster_cover/lpst/public/p2392222202.jpg",
+		"medium": "http://img7.doubanio.com/view/movie_poster_cover/spst/public/p2392222202.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/7065238/",
+	  "id": "7065238"
+	},
+	{
+	  "rating": {
+		"max": 10,
+		"average": 0,
+		"stars": "00",
+		"min": 0
+	  },
+	  "genres": [
+		"喜剧",
+		"爱情",
+		"冒险"
+	  ],
+	  "title": "越囧",
+	  "casts": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1218349/",
+		  "avatars": {
+			"small": "http://img3.doubanio.com/img/celebrity/small/3276.jpg",
+			"large": "http://img3.doubanio.com/img/celebrity/large/3276.jpg",
+			"medium": "http://img3.doubanio.com/img/celebrity/medium/3276.jpg"
+		  },
+		  "name": "马德钟",
+		  "id": "1218349"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1314858/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1371633861.75.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1371633861.75.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1371633861.75.jpg"
+		  },
+		  "name": "王大治",
+		  "id": "1314858"
+		},
+		{
+		  "alt": "https://movie.douban.com/celebrity/1318116/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1479538556.54.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1479538556.54.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1479538556.54.jpg"
+		  },
+		  "name": "刘力扬",
+		  "id": "1318116"
+		}
+	  ],
+	  "collect_count": 61,
+	  "original_title": "越囧",
+	  "subtype": "movie",
+	  "directors": [
+		{
+		  "alt": "https://movie.douban.com/celebrity/1364878/",
+		  "avatars": {
+			"small": "http://img7.doubanio.com/img/celebrity/small/1479536126.81.jpg",
+			"large": "http://img7.doubanio.com/img/celebrity/large/1479536126.81.jpg",
+			"medium": "http://img7.doubanio.com/img/celebrity/medium/1479536126.81.jpg"
+		  },
+		  "name": "郭翔",
+		  "id": "1364878"
+		}
+	  ],
+	  "year": "2016",
+	  "images": {
+		"small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2394312396.jpg",
+		"large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2394312396.jpg",
+		"medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2394312396.jpg"
+	  },
+	  "alt": "https://movie.douban.com/subject/26903988/",
+	  "id": "26903988"
+	}
+  ],
+  "title": "正在上映的电影-北京"
+}

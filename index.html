@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-CN" ng-app="moviecat">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>myDoubanMoviecat</title>
+    <link rel="stylesheet" href="npm_packages/bootstrap/dist/css/bootstrap.css" />
+    <link rel="stylesheet" href="font-awesome.css">
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <!--  为公共模块再添加一个控制器-->
+            <!-- <ul class="nav nav-pills pull-right" role="tablist" ng-controller="NavController">
+                <li ng-class="{active:category=='in_theaters'}"><a href="#/in_theaters/1">正在热映</a></li>
+                <li ng-class="{active:category=='coming_soon'}"><a href="#/coming_soon/1">即将上映</a></li>
+                <li ng-class="{active:category=='top250'}"><a href="#/top250/1">top250</a></li>
+            </ul> -->
+            <!-- 自定义指令实现焦点状态的更改 -->
+            <ul class="nav nav-pills pull-right" role="tablist">
+                <li auto-focus><a href="#/in_theaters/1">正在热映</a></li>
+                <li auto-focus><a href="#/coming_soon/1">即将上映</a></li>
+                <li auto-focus><a href="#/top250/1">top250</a></li>
+            </ul>
+            <h3 class="text-muted">豆瓣电影</h3>
+            <!-- 控制器方式 -->
+            <!-- <div class="search d6" ng-controller="SearchController">
+                <form ng-submit="search()">
+                    <input type="text" placeholder="搜索从这里开始..." ng-model="input">
+                    <button type="submit" ng-click="search()"></button>
+                </form>
+                <div search></div>
+            </div> -->
+            <!-- 指令方式 -->
+            <div class="search d6">
+                <div search></div>
+            </div>
+        </div>
+        <div ng-view></div>
+
+    </div>
+
+    <script src="npm_packages/angular/angular.js"></script>
+    <script src="npm_packages/angular-route/angular-route.js"></script>
+    <!-- json服务 -->
+    <script src="components/http.js"></script>
+    <!--主模块-->
+    <script src="app.js"></script>
+    <script src="movie_detail/controllers.js"></script>
+    <script src="movie_list/controllers.js"></script>
+    <!-- 获取焦点指令 -->
+    <script src="components/autoFocus.js"></script>
+    <!-- 搜索框指令 -->
+    <script src="components/search.js"></script>
+    <!-- <script src="movie_list/controllers.js"></script> -->
+    <!-- <script src="movie_detail/controllers.js"></script> -->
+    <!-- <script src="components/auto_focus.js"></script> -->
+</body>
+
+</html>
